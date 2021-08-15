@@ -11,7 +11,7 @@ In this work, the  guidance technique of pure pursuit is adopted and modified fo
 
 
 <div  align="center">
-<img  src="./detection.png" width="1000">
+<img  src="./detection.png" width="600">
 </div>
 
 Some intresting Results:
@@ -19,5 +19,5 @@ Landing is a very sensitive action to perform, directly maneuvering the drone to
 
 
 <div  align="center">
-<img  src="./trej.png" width="1000">
+<img  src="./trej.png" width="600">
 </div>
