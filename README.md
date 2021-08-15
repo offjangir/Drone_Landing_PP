@@ -3,7 +3,7 @@
 ROS packages developed for the autonomous landing of a UAV on a stationary fiducial tag using Pure Pursuit .
 
 <div  align="center">
-<img src="./land.gif" width="480" />
+<img src="./land.gif" width="700" />
 </div>
 
 ## Description
