@@ -2,10 +2,7 @@
 
 ROS packages developed for the autonomous landing of a UAV on a stationary fiducial tag using Pure Pursuit .
 
-<div  align="center">
-<img src="./land.gif" width="500" />
-</div>
-
+![](land.gif)
 ## Description
 In this work, the  guidance technique of pure pursuit is adopted and modified for quadrotors. This work focuses on the development of vision-assisted guidance techniques for landing of a quadrotor. The concern of a guidance strategy is to enable persistent tracking of the landing pad or track a specific landing trajectory ending to a landing pad  which is stationary and its position is being estimated by a vision based method using a single downward facing camera to  accurately land on the target.
 
